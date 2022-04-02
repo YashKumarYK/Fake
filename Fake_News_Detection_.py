@@ -1,4 +1,4 @@
-# # Fake and Reak Newws Detection System
+# # Fake and Real News Detection System
 
 import pandas as pd
 import numpy as np
